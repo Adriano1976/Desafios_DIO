@@ -39,15 +39,15 @@ print(resultado)
 
 
 """
-Explicando o código - No código a cima, está sendo definida a função **prever_afinidade_elemental**, 
-que recebe cinco parâmetros: **intensidade**, **componente_raro**, **fase_lunar**, **idade_feiticeiro** 
-e **afinidade_animais**. Essa função determina a afinidade elemental de um feiticeiro com base em uma 
-série de condições. Primeiro, converte as respostas dos parâmetros **componente_raro** e **afinidade_animais** 
+Explicando o código - No código a cima, está sendo definida a função 'prever_afinidade_elemental', 
+que recebe cinco parâmetros: 'intensidade', 'componente_raro', 'fase_lunar', 'idade_feiticeiro' 
+e 'afinidade_animais'. Essa função determina a afinidade elemental de um feiticeiro com base em uma 
+série de condições. Primeiro, converte as respostas dos parâmetros 'componente_raro' e 'afinidade_animais'
 para booleanos. Em seguida, utilizando lógica condicional, verifica se a intensidade do feitiço é alta o 
 suficiente, se a fase lunar está em um estado específico e se a idade do feiticeiro atende a determinados 
 critérios. Com base nessas condições, retorna uma mensagem indicando a afinidade elemental prevista. 
 Após a definição da função, o código solicita ao usuário que forneça informações sobre o feitiço 
 realizado, como intensidade, componente raro utilizado, fase lunar, idade do feiticeiro e se possui 
-afinidade com animais. Em seguida, chama a função **prever_afinidade_elemental** com os dados fornecidos 
+afinidade com animais. Em seguida, chama a função 'prever_afinidade_elemental' com os dados fornecidos 
 e exibe o resultado da previsão.
 """
