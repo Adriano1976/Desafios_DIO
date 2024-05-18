@@ -33,3 +33,10 @@ Os desafios de código são uma parte fundamental dos Bootcamps da DIO, pois pro
 * **Não desista:** Se você encontrar dificuldades em um desafio, não desista. Tente diferentes abordagens, peça ajuda aos seus colegas ou mentores e persista até encontrar a solução.
 
 Os desafios de código da DIO nos Bootcamps são uma ferramenta valiosa para o aprendizado e desenvolvimento dos alunos. Ao se dedicar à resolução dos desafios, os alunos podem aprimorar suas habilidades de programação, aumentar sua confiança e se preparar para uma carreira de sucesso na área de tecnologia.
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Desafios_DIO}/count.svg" /></p> <br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
